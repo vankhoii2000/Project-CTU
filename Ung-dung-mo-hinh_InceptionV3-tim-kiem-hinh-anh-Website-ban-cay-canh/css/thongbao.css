@@ -1,0 +1,24 @@
+#alertdiv {
+    position: fixed;
+    top: 30%;
+    left: 35%;
+    border: 5px solid #1efc0a;
+    height: 40%;
+    width: 30%;
+    background-color: rgba(193, 199, 199, 0.5);
+    display: none;
+    text-align: center;
+}
+
+#alertdiv p {
+        text-align: center;
+        color: green;
+        font-size: 40px;
+        margin-top: 5vh;
+    }
+
+#alertdiv i {
+        font-size: 8vw;
+        margin-top: 2vh;
+        color: green;
+    }
